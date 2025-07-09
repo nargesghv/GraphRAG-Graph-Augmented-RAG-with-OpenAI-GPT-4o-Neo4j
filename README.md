@@ -60,10 +60,10 @@ docker run -p 7474:7474 -p 7687:7687 \
   neo4j:5.15
 ```
 
-### 2. Launch the Notebook
+### 2. Launch the python
 
 ```bash
-jupyter notebook
+python main.py
 ```
 
 > Load the notebook/script and run each cell to build, load, and query your knowledge graph.
