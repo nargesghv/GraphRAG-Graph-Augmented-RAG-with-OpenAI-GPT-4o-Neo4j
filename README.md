@@ -65,10 +65,8 @@ docker run -p 7474:7474 -p 7687:7687 \
 ```bash
 python main.py
 ```
+Load the notebook/script and run each cell to build, load, and query your knowledge graph.
 
-> Load the notebook/script and run each cell to build, load, and query your knowledge graph.
-
----
 
 ## 📊 Architecture
 
