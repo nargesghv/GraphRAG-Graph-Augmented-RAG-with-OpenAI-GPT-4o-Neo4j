@@ -1,0 +1,16 @@
+# LangChain core & utilities
+langchain
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-neo4j
+
+# OpenAI LLM
+openai
+
+# Neo4j Python driver
+neo4j
+
+# Environment & notebook tools
+python-dotenv
+jupyter
